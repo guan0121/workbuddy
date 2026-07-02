@@ -1,0 +1,11 @@
+# 临时 / 缓存
+*.log
+.DS_Store
+.env
+.idea/
+.vscode/
+
+# 系统
+__pycache__/
+*.pyc
+Thumbs.db
